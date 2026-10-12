@@ -1,7 +1,8 @@
 # Fleet Rental Management System (FRMS)
 
 ITS1033 Object-Oriented Programming - HDSE 77 Coursework
-Author: <YOUR NAME / STUDENT ID>
+Name: Mohammed Infas Imthiyas
+St Id: 252771005
 
 A console-based Java application for managing a vehicle rental fleet
 (Cars, Vans, Trucks), customers (Individual, Corporate) and rental agreements.
@@ -37,8 +38,5 @@ From the project root:
 4. Try renting the same vehicle again to see the exception message
 5. View reports (options 6, 7, 8) and return the vehicle (option 5)
 
-## AI assistance disclosure
-<EDIT THIS BEFORE SUBMITTING - be specific and honest.>
-Example: "I used Claude (Anthropic) to help generate a first draft of the FRMS code
-from the assignment brief and to test it. I reviewed and studied the code and can
-explain it, and I take responsibility for the submitted work."
+
+
